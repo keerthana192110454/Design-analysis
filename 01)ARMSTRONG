@@ -29,7 +29,7 @@ int main()
 	}
 	count++;
 	printf("time complexity:%d",count);
-	count++;
+	
 }
 
 
